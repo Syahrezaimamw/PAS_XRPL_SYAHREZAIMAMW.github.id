@@ -2,6 +2,8 @@
 // let namaBelakang = "Putra Andika"
 // const umur = 15 + 2
 
+KEBANYAKAN DONGO
+
 
 // console.log(nama, namaBelakang, umur)
 
